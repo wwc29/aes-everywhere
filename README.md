@@ -1,5 +1,3 @@
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct.svg)](https://stand-with-ukraine.pp.ua/)
-
 # AES Everywhere - Cross Language Encryption Library  (Bash, C#, Dart, GoLang, Java, JavaScript, PHP, Python, Ruby, Swift)
 
 
